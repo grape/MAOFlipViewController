@@ -1,3 +1,10 @@
+The original project provide interaction transition like FlipBoard
+
+I added one more transition like Samsuning. SourceCode in .../Demo/YuSamsungFlipViewController
+
+
+
+
 MAOFlipViewController
 =====================
 Usage
